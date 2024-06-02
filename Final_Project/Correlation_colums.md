@@ -2,7 +2,6 @@ TeamTotalGold - TeamTotalKills
 TeamXp - TeamTotalKills
 DamageToChamps - TeamTotalKills
 Gold/XP/Kills Diff - TeamTotalKills
-TeamDragonKills
 Win/Gold/XP/Kills - Dragon Kills
 TeamTotalGold - TeamTowerDestroyed
 XP, Damage, GoldDiff, XPDiff, KillsDiff - TowerDestroyed
